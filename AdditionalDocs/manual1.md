@@ -4,7 +4,7 @@
 
 
 <description> 
-  <summary>Схема</summary>
+
 </description>
 
 -------

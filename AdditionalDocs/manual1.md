@@ -2,12 +2,8 @@
 
 ## Cхема Действий
 
-<description>
-  
-  <summary>Схема</summary>
-  
-
-  
+<description> 
+  <summary>Схема</summary>  
 </description>
 
 -------

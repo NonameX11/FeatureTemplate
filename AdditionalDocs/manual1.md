@@ -3,11 +3,15 @@
 ## Cхема Действий
 
 <description>
-  <summary></summary>
-  ![изображение](https://github.com/user-attachments/assets/a1bd4035-2cc4-401e-b8e4-f8f1f975ca3b)
-</description>
+  <summary>Схема</summary>
   
+  ![изображение](https://github.com/user-attachments/assets/a1bd4035-2cc4-401e-b8e4-f8f1f975ca3b)
+  
+</description>
+
+
 <description>
+  
   <>PlantUML Code<>
   ```
   @startuml

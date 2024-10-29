@@ -121,25 +121,33 @@ endswitch
 
    ![изображение](https://github.com/user-attachments/assets/29ace0bc-5c3e-4aee-8eb3-2709da31d70f)
    
-  3.	Войдите в свою учетную запись.
+  2.	Войдите в свою учетную запись.
+
       ![изображение](https://github.com/user-attachments/assets/467bcb97-12c3-4e3e-9e63-acefbf1b86e1)
 
 5.	Нажмите иконку «Поиск» в правом верхнем углу экрана.
+
   ![изображение](https://github.com/user-attachments/assets/ea955fc0-bc78-4a10-88a7-3260dedd5845)
+
 6.	Найдите нужное видео, введите название ролика и нажмите «Поиск» 
+
   ![изображение](https://github.com/user-attachments/assets/4c579374-38fc-4ff9-aeb3-368190aace4f)
 
 7.	Выберите видеоролик
+
   ![изображение](https://github.com/user-attachments/assets/8416e438-28a8-41fc-8b2e-cfb8ace1fa57)
 
 8.	Пролистайте вниз до раздела «Комментарии»
+
   ![изображение](https://github.com/user-attachments/assets/171693d7-0561-45ae-b135-98ee3c7b39ac)
 
 9.	Нажмите на текстовое поле «Оставить комментарий» в верхней части раздела.
     Введите свой комментарий:
+
   	![изображение](https://github.com/user-attachments/assets/2e744b76-2b2f-4af3-8c3f-45f5f7c5be0d)
 
 10.	Нажмите кнопку «Отправить» (иконка в виде бумажного самолётика) в правой нижней части поля комментария»
+
 ![изображение](https://github.com/user-attachments/assets/bc7c4888-46be-47fc-825c-dbce770bc450)
 
 11.	Комментарий добавлен.

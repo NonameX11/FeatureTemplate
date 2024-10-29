@@ -1,4 +1,4 @@
-# Инструкция по оставлению комментария под видео на YouTube
+# Инструкция по добавлению комментария под видео на YouTube
 
 ## Cхема Действий
 
@@ -113,97 +113,59 @@ endswitch
 ## Инструкция для мобильного устройства:
 
 1.	Откройте приложение YouTube
-
-![изображение](https://github.com/user-attachments/assets/67e6beec-f39e-441c-8289-83607fdedcfd)
-
+  ![изображение](https://github.com/user-attachments/assets/67e6beec-f39e-441c-8289-83607fdedcfd)
    
-3.	Войдите в свою учётную запись.
+2.	Войдите в свою учётную запись.
   1.	Нажмите на иконку профиля
-
-![изображение](https://github.com/user-attachments/assets/29ace0bc-5c3e-4aee-8eb3-2709da31d70f)
-
-
+    ![изображение](https://github.com/user-attachments/assets/29ace0bc-5c3e-4aee-8eb3-2709da31d70f)
   2.	Войдите в свою учетную запись
-
-![изображение](https://github.com/user-attachments/assets/467bcb97-12c3-4e3e-9e63-acefbf1b86e1)
-
-
+    ![изображение](https://github.com/user-attachments/assets/467bcb97-12c3-4e3e-9e63-acefbf1b86e1)
 3.	Нажмите иконку «Поиск» в правом верхнем углу экрана.
-
-![изображение](https://github.com/user-attachments/assets/ea955fc0-bc78-4a10-88a7-3260dedd5845)
-
-
+  ![изображение](https://github.com/user-attachments/assets/ea955fc0-bc78-4a10-88a7-3260dedd5845)
 4.	Найдите нужное видео, введите название ролика и нажмите «Поиск» 
-
-![изображение](https://github.com/user-attachments/assets/4c579374-38fc-4ff9-aeb3-368190aace4f)
-
+  ![изображение](https://github.com/user-attachments/assets/4c579374-38fc-4ff9-aeb3-368190aace4f)
 
 5.	Выберите видеоролик
+  ![изображение](https://github.com/user-attachments/assets/8416e438-28a8-41fc-8b2e-cfb8ace1fa57)
 
-![изображение](https://github.com/user-attachments/assets/8416e438-28a8-41fc-8b2e-cfb8ace1fa57)
-
-
-7.	Пролистайте вниз до раздела «Комментарии»
-
+6.	Пролистайте вниз до раздела «Комментарии»
   ![изображение](https://github.com/user-attachments/assets/171693d7-0561-45ae-b135-98ee3c7b39ac)
 
-
-9.	Нажмите на текстовое поле «Оставить комментарий» в верхней части раздела.
-
+7.	Нажмите на текстовое поле «Оставить комментарий» в верхней части раздела.
     Введите свой комментарий:
-
   	![изображение](https://github.com/user-attachments/assets/2e744b76-2b2f-4af3-8c3f-45f5f7c5be0d)
 
-
-11.	Нажмите кнопку «Отправить» (иконка в виде бумажного самолётика) в правой нижней части поля комментария»
-
+8.	Нажмите кнопку «Отправить» (иконка в виде бумажного самолётика) в правой нижней части поля комментария»
 ![изображение](https://github.com/user-attachments/assets/bc7c4888-46be-47fc-825c-dbce770bc450)
 
-
-13.	Комментарий добавлен.
+9.	Комментарий добавлен.
 
  
 ## Инструкция для ПК
 
 1.	Откройте YouTube в браузере.
-
  ![изображение](https://github.com/user-attachments/assets/b7c9fcff-020b-4e85-9140-94de97b4cd30)
 
-3.	Найжмите кнопку «Войти» и войдите в свою учётную запись
-   
+2.	Найжмите кнопку «Войти» и войдите в свою учётную запись   
 ![изображение](https://github.com/user-attachments/assets/33ed1bb2-8668-4c14-a226-4849c4720f7e)
 
-
-4.	Найдите нужное видео через строку поиска.
+3.	Найдите нужное видео через строку поиска.
     Или перейдите по ссылке на него, если оно находится на вашей домашней странице.
+    ![изображение](https://github.com/user-attachments/assets/ad1601d0-8eb6-4b7d-b5e3-0015abff278b)
 
-![изображение](https://github.com/user-attachments/assets/ad1601d0-8eb6-4b7d-b5e3-0015abff278b)
-
-
-5.	Нажмите на ролик, чтобы начать его воспроизведение.
-
+4.	Нажмите на ролик, чтобы начать его воспроизведение.
 ![изображение](https://github.com/user-attachments/assets/3c902f3e-a8e8-41cc-94f2-4aa34629f31d)
-
  
-6.	Пролистайте вниз до раздела «Комментарии» под описанием ролика
-
+5.	Пролистайте вниз до раздела «Комментарии» под описанием ролика
 ![изображение](https://github.com/user-attachments/assets/ca3096e1-0d0b-45f4-a1fd-5f8bb7c3ef5b)
-
-
   1.	Если комментарии к видео на YouTube отключены, вы не сможете их оставить.
-  2.	
-![изображение](https://github.com/user-attachments/assets/a2f32271-bea6-4fea-a9cb-2f3b78d3b9c9)
-
+  ![изображение](https://github.com/user-attachments/assets/a2f32271-bea6-4fea-a9cb-2f3b78d3b9c9)
 
 6.	Нажмите на текстовое поле «Оставьте комментарий. И введите текст комментария.
+  ![изображение](https://github.com/user-attachments/assets/1d664cdd-de20-4572-a82b-c99caf86fb73)
 
-![изображение](https://github.com/user-attachments/assets/1d664cdd-de20-4572-a82b-c99caf86fb73)
+7.	Нажмите «Оставить комментарий»
+  ![изображение](https://github.com/user-attachments/assets/dfccfd90-2cee-4a36-bdd9-9a8607a5c463)
 
+8.	Комментарий добавлен
 
-8.	Нажмите «Оставить комментарий»
-
-![изображение](https://github.com/user-attachments/assets/dfccfd90-2cee-4a36-bdd9-9a8607a5c463)
-
-
-10.	Комментарий добавлен
- 

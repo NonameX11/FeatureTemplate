@@ -8,9 +8,10 @@
   
   ![изображение](https://github.com/user-attachments/assets/a1bd4035-2cc4-401e-b8e4-f8f1f975ca3b)
   
-<details>
+</details>
 
 -------
+
 
 <details>
   <summary>PlantUML Code</summary>

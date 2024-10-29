@@ -144,12 +144,13 @@ endswitch
 
 5.	Нажмите на ролик, чтобы начать его воспроизведение.
 
+![изображение](https://github.com/user-attachments/assets/3c902f3e-a8e8-41cc-94f2-4aa34629f31d)
 
-![изображение](https://github.com/user-attachments/assets/1007fc17-48f3-49a5-b261-535f9509591f)  
  
 6.	Пролистайте вниз до раздела «Комментарии» под описанием ролика
 
-![изображение](https://github.com/user-attachments/assets/850cffce-0503-4499-8485-c48224904f02)
+![изображение](https://github.com/user-attachments/assets/ca3096e1-0d0b-45f4-a1fd-5f8bb7c3ef5b)
+
 
   1.	Если комментарии к видео на YouTube отключены, вы не сможете их оставить.
   2.	

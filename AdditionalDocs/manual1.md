@@ -9,11 +9,12 @@
   ![изображение](https://github.com/user-attachments/assets/a1bd4035-2cc4-401e-b8e4-f8f1f975ca3b)
   
 </description>
+
 -------
 
 <description>
   
-  <summary>PlantUML Code</summary>
+  <summary>Схема</summary>
   ```
   @startuml
 'https://plantuml.com/en/activity-diagram-beta'
@@ -86,7 +87,10 @@ endswitch
 
   ```
 </description>
-    
+
+
+
+
 ## Предварительная часть
 
 1.	Проверье, есть ли у Вас учетная запись Google

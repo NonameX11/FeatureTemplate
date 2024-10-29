@@ -12,7 +12,7 @@
 
 <description>
   
-  <>PlantUML Code<>
+  <summary>PlantUML Code</summary>
   ```
   @startuml
 

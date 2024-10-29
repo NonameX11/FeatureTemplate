@@ -170,15 +170,16 @@ endswitch
 3.	Найдите нужное видео через строку поиска.
     Или перейдите по ссылке на него, если оно находится на вашей домашней странице.
 
-    ![изображение](https://github.com/user-attachments/assets/ad1601d0-8eb6-4b7d-b5e3-0015abff278b)
+   ![изображение](https://github.com/user-attachments/assets/ad1601d0-8eb6-4b7d-b5e3-0015abff278b)
 
 4.	Нажмите на ролик, чтобы начать его воспроизведение.
 
-  ![изображение](https://github.com/user-attachments/assets/3c902f3e-a8e8-41cc-94f2-4aa34629f31d)
+   ![изображение](https://github.com/user-attachments/assets/3c902f3e-a8e8-41cc-94f2-4aa34629f31d)
  
 5.	Пролистайте вниз до раздела «Комментарии» под описанием ролика
 
   ![изображение](https://github.com/user-attachments/assets/ca3096e1-0d0b-45f4-a1fd-5f8bb7c3ef5b)
+
   1.	Если комментарии к видео на YouTube отключены, вы не сможете их оставить.
 
     ![изображение](https://github.com/user-attachments/assets/a2f32271-bea6-4fea-a9cb-2f3b78d3b9c9)

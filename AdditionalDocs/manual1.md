@@ -13,18 +13,15 @@
 <description>
   
   <summary>PlantUML Code</summary>
+  
   ```
+
   @startuml
-
 'https://plantuml.com/en/activity-diagram-beta'
-
 start
-
 :Проверьте наличие учетной записи Google;
 label 01
 if (Запись есть?) then (ДА)
-
-
 else (НЕТ)
     :Заведите учетную запись;
 note left
@@ -32,19 +29,14 @@ note left
     https://support.google.com
     /accounts/answer/27441
 end note
-
 endif
-
 :Выберите, какое устройство
  использовать для 
  оставления комментария;
-
 note right
  Мобильное или ПК (Web Браузер);
 end note
-
 switch (Какое у вас устройство?)
-
 case (Мобильное)
     :Откройте приложение YouTube;
     :Войдите в свою учётную запись;
@@ -91,7 +83,6 @@ case (ПК (Web браузер))
     :Комментарий добавлен;
 end
 endswitch
-
 @enduml
 
   ```
